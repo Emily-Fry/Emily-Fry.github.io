@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.hero {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+    background-image: url (/laptop.jpeg); 
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
+
+
+.hero h1 {
+    /* Text styles */
+    font-size: 5em;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+<div>
+<ul>
+      <li><a href ="#">Menu</a></li>
+      <li><a href ="#">Search</a></li>    
+</ul>
+</div>
+
+
+
