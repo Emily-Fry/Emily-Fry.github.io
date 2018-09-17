@@ -7,9 +7,9 @@ p {
     font-size: 12px;
 }
 
-h4 {
+h6 {
     margin: 20px; 
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
 }
 
@@ -20,7 +20,7 @@ h4 {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(header.jpeg);
+    background-image: url(bphead.jpeg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -34,9 +34,12 @@ h4 {
     font-weight: bold;
     margin-top: 0;
     margin-bottom: 0.5em;
+    color: aliceblue
 }
 
-
+.hero h2 {
+    color: aliceblue
+}
 
 .container {
     position: relative;
