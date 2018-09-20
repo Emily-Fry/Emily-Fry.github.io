@@ -13,6 +13,10 @@ h4 {
     font-weight: bold;
 }
 
+ol {
+    margin: 20px;
+}
+
 .hero {
     width: 100vw;
     height: 100vh;
